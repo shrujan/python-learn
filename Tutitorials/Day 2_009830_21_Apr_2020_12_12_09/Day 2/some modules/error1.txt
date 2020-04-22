@@ -1,0 +1,25 @@
+
+Traceback (most recent call last):
+  File "D:\Sakshi J\Data9_2019_2020\RBT\4_Apprentice_Int Python\Notes\Day3\some modules\2_sys_err_demo_2.py", line 7, in <module>
+    print nosuchvar   #error gets printed in file error.txt
+NameError: name 'nosuchvar' is not defined
+
+Traceback (most recent call last):
+  File "D:\Sakshi J\Data9_2019_2020\RBT\6_Int_Python_Telecom_11 to 17 Jul\Notes\Day 5\some modules\2_sys_err_demo_2.py", line 8, in <module>
+    print nosuchvar   #Namerror gets printed in file error.txt
+NameError: name 'nosuchvar' is not defined
+
+Traceback (most recent call last):
+  File "D:\Sakshi J\Data9_2019_2020\RBT\7_Int_Python_Security Practices_18_25Jul\Notes\Day 5\some modules\2_sys_err_demo_2.py", line 8, in <module>
+    print nosuchvar   #Namerror gets printed in file error.txt
+NameError: name 'nosuchvar' is not defined
+
+Traceback (most recent call last):
+  File "D:\Sakshi J\Data9_2019_2020\RBT\8_Int_Python_LABS - BU\Notes\Day 4\some modules\2_sys_err_demo_2.py", line 8, in <module>
+    print nosuchvar   #Namerror gets printed in file error.txt
+NameError: name 'nosuchvar' is not defined
+
+Traceback (most recent call last):
+  File "D:\Sakshi J\Data9_2019_2020\RBT\17_IntPy_RM_NGP_25 Sep to 1 Oct\Notes\Day 4\some modules\2_sys_err_demo_2.py", line 8, in <module>
+    print nosuchvar   #Namerror gets printed in file error.txt
+NameError: name 'nosuchvar' is not defined
