@@ -1,0 +1,13 @@
+Portuguese:1
+Franch:4
+Chinese:1
+Vietnamese:1
+German:1
+English:5
+Japanese:1
+Greek:1
+Indian:1
+Spanish:3
+Arabic:2
+Hungerian:1
+Italian:1

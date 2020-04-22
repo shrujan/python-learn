@@ -31,9 +31,6 @@ print ( (a == 1) or (b == 3))
 
 choice = input('want to enter validate marks ')
 
-
-
-
 if choice == 'yes':
     print('hello')
     mar = input('want to enter validate marks ')
